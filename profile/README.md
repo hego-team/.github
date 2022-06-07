@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../hego" alt="Meilisearch" width="75" height="200" />
+  <img src="../hego" alt="Meilisearch" width="200" height="75" />
 </p>
 
 <h1 align="center">Hegosearch</h1>
