@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yili979.oss-cn-beijing.aliyuncs.com/img/202206071341222.png" alt="Meilisearch"  height="2" />
+  <img src="https://yili979.oss-cn-beijing.aliyuncs.com/img/202206071341222.png" alt="Meilisearch" width="100" height="2" />
 </p>
 
 <h1 align="center">Hegosearch</h1>
