@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../hego" alt="Meilisearch" width="200" height="75" />
+  <img src="https://github.com/hego-team/.github/blob/main/hego" alt="Meilisearch" width="200" height="75" />
 </p>
 
 <h1 align="center">Hegosearch</h1>
