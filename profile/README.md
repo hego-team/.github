@@ -10,7 +10,7 @@
 
 ## 🔎 Hegosearch
 
-There are two Repository for Hegosearch. One is the backend and another is the frontend. The code in this repository is only concerned with  exposing the HTTP API. So you can build it on your own server and it is same easy with other server projects.
+There are two Repository for Hegosearch. One is the backend and another is the frontend. The code in this repository is only concerned with  exposing the HTTP API. So you can build it on your own server and it is same easily to deploy as other server projects.
 
 ## 📚 Documentation 
 
