@@ -6,7 +6,7 @@
 
 
 
-👋  Hi! This is HegosHegosearch, an open-source, easy, blazingly fast, image search engine built in Java and Javascript.
+👋  Hi! This is Hegosearch, an open-source, easy, blazingly fast, image search engine built in Java and Javascript.
 
 ## 🔎 Hegosearch
 
