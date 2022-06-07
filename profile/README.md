@@ -22,7 +22,7 @@ You can view our page in [search.yili.fit](https://search.yili.fit)
 
 ## 🤝 Contributing 
 
-Hey! We're glad you're thinking about contributing to Meilisearch! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and we are available to help you!
+Hey! We're glad you're thinking about contributing to Hegosearch! Feel free to pick an issue labeled as `good first issue` and  ask any question you need. Some points might not be clear, and we are available to help you!
 
 ### 🔩 Others 
 
