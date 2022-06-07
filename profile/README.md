@@ -10,11 +10,11 @@
 
 ## 🔎 Hegosearch
 
-There are two Repository for hegosearch. One is the backend and another is the frontend. The code in this repository is only concerned with  exposing the HTTP API. So you can build it on your own server and it is same easy with other server projects.
+There are two Repository for Hegosearch. One is the backend and another is the frontend. The code in this repository is only concerned with  exposing the HTTP API. So you can build it on your own server and it is same easy with other server projects.
 
 ## 📚 Documentation 
 
-Our [documentation website](https://docs.meilisearch.com) is hosted in a [feishu document](https://iu8yo54own.feishu.cn/docs/doccn9O6s0jh3Sqp4LAG3eVViRe). 
+Our documentation website is hosted in [feishu document](https://iu8yo54own.feishu.cn/docs/doccn9O6s0jh3Sqp4LAG3eVViRe). 
 
 ## 🖥 Page
 
